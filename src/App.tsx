@@ -10,6 +10,7 @@ import BlogPage from './pages/BlogPage';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 import AuthProvider from './context/AuthContext';
+import './App.css';
 
 const App: React.FC = () => {
   return (
