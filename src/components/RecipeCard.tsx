@@ -29,4 +29,4 @@ const RecipeCard: React.FC<RecipeCardProps> = ({ id, title, image }) => {
   );
 };
 
-export default RecipeCard;
+export default RecipeCard; 
